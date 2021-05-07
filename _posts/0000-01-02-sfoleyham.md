@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Shay's slide!"
 ---
-This git stuff gets hard to remember!
+Going through this tutorial twice!
 Use the left arrow to go back!
